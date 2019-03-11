@@ -20,12 +20,15 @@ All Cameras Editor Review Data File:
 I Think, In This Data PRODUCT_ID Is Numeric And Others Is Textual :grimacing::interrobang:
 
 <br>
+
 All Cameras Spec Data File:
 
 <br>
+
 <img src="https://github.com/moeindal/BoxPlot/blob/master/venv/allCameras_Spec.png" />
 
 <br>
+
 Data PRODUCT_ID Is Numeric And Others Is Textual.
 <br><br>
 
