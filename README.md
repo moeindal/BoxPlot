@@ -17,6 +17,7 @@ All Cameras Editor Review Data File:
 I Think, In This Data PRODUCT_ID Is Numeric And Others Is Textual :grimacing::interrobang:
 
 <br>
+
 All Cameras Spec Data File:
 
 <br>
@@ -25,4 +26,6 @@ All Cameras Spec Data File:
 <br>
 Data PRODUCT_ID Is Numeric And Others Is Textual.
 <br><br>
-### tip: plaese Discard grammatical mistakes
+
+
+### tip: plaese Discard grammatical mistakes :sweat_smile:
