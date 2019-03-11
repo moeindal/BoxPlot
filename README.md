@@ -1,7 +1,9 @@
 ### BoxPlot 
 ---
 Create a Simple BoxPlot From Some tsv Data <br><br>
-whate is <a href="https://whatis.techtarget.com/fileformat/TSV-Tab-separated-values-file">tsv</a> data ?!
+
+if you dont know what is tsv data see this <a href="https://whatis.techtarget.com/fileformat/TSV-Tab-separated-values-file">link</a><br/>
+
 This is just a homework for the university :grimacing::sweat: 
 <img src="https://github.com/moeindal/BoxPlot/blob/master/venv/boxPlot"/>
 <br/>
