@@ -4,7 +4,7 @@ Create a Simple BoxPlot From Some <a href="https://whatis.techtarget.com/filefor
 
 ---
 
-:pushpin: This is just a homework for the <a href="https://vru.ac.ir">university</a> :sweat: <br>
+:pushpin: just a homework for the <a href="https://vru.ac.ir">university</a> :sweat: <br>
 after you run the app, boxplot method create this boxplot for you :
 
 <img src="https://github.com/moeindal/BoxPlot/blob/master/venv/boxPlot"/>
@@ -17,7 +17,7 @@ All Cameras Editor Review Data File:
 <img src="https://github.com/moeindal/BoxPlot/blob/master/venv/allCameras_editor_review.png" />
 
 <br>
-I Think, In This Data PRODUCT_ID Is Numeric And Others Is Textual :grimacing::interrobang:
+In This Data PRODUCT_ID Is Numeric And Others Is Textual
 
 
 <br><br>
